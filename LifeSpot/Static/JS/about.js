@@ -83,3 +83,6 @@ function addLike(id) {
     // Обновим текст элемента
     element.innerText = array.join(' ')
 }
+
+
+
